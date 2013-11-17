@@ -53,7 +53,9 @@
     background: #141;
 
 /* START_HIGHLIGHT */
-
+    form, div {
+      display: inline;
+    }  
  
     input {
       font-size: small;
